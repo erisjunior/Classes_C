@@ -1,0 +1,21 @@
+Personagem  Classe      Str Dex Wis Int Con Cha
+
+Kabrito     Mago        3   2   1   6   5   0
+Jiban       Paladino    16  10  18  8   15  10
+Patrini     Guerreiro   18  12  7   6   17  10
+Quevedo     Clerigo     9   8   19  17  10  15
+Law         Clerigo     18  18  18  18  18  18
+Robin       Ladrao      10  18  13  14  7   16
+Zoro        Guerreiro   19  18  10  15  18  18
+Conan       Barbaro     18  12  3   10  18  13
+Potter      Mago        7   10  12  18  10  13
+Ford        Ranger      14  19  16  10  15  12
+Samanta     Feiticeiro  5   14  13  19  10  16
+Tomaz       Bardo       8   18  15  12  5   18
+Nami        Ladra       10  15  12  18  12  18
+Power       Ranger      12  16  12  10  14  17
+Dohr        Druida      9   13  18  16  10  4
+Kakaroto    Monge       17  16  15  6   18  15
+Skywalker   Cavaleiro   16  13  12  10  15  19
+Luffy       Monge       18  18  3   7   19  18
+Leandro     Guerreiro   15  3   1   2   10  10
