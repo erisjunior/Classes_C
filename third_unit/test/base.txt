@@ -1,0 +1,21 @@
+20
+athletico paranaense; 17 8 10 49 31
+atletico mineiro; 11 9 15 40 46
+avai; 3 9 23 16 55
+bahia; 11 12 12 40 39
+botafogo; 13 3 19 30 41
+ceara; 10 7 18 34 38
+chapecoense; 6 10 19 27 49
+corinthias; 13 14 8 39 30
+cruzeiro; 7 15 13 27 41
+csa; 8 8 19 22 51
+flamengo; 26 6 3 77 31
+fluminense; 11 8 16 35 44
+fortaleza; 13 7 15 46 47
+goias; 14 7 14 41 55
+gremio; 17 8 10 57 36
+internacional; 14 9 12 40 36
+palmeiras; 19 11 5 53 28
+santos; 20 8 7 54 32
+sao paulo; 15 12 8 35 25
+vasco da gama; 11 11 13 36 43
